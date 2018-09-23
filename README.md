@@ -80,7 +80,7 @@ Which gives us a clear winner.
 
  1. Don't assume a fancy solution like 'dynamic programming' is always best.
     * Sometimes a simple optimization like comparing with a known good solution might just be better.
- 1. Look at your problem. See if you can reformulate it in a more efficient way
+ 1. **Think before you code**. Look at your problem. Can you reformulate it in a more efficient way?
 
 
 
